@@ -1,0 +1,21 @@
+{
+  "full_name": "Mark Ko",
+  "name": "Mako",
+  "current_role": "CEO",
+  "location": "New York, USA",
+  "email": "markko7@gmail.com",
+  "linkedin": "linkedin.com/in/mark-ko-a801844",
+  "specialties": [
+    "Leadership",
+    "Strategic Planning",
+    "Business Development"
+  ],
+  "years_experience": 30,
+  "education": [
+    {
+      "degree": "BSEE",
+      "institution": "USC",
+      "year": "1987"
+    }
+  ]
+}
